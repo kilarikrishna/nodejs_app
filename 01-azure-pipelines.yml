@@ -5,7 +5,11 @@
 
 trigger:
 - master
-
+    
+    
+#pipeline > stage > jobs > task/step    
+    
+    
 pool:
   vmImage: ubuntu-default
 
